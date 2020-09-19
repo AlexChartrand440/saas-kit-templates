@@ -1,0 +1,18 @@
+[submodule "saas-nextjs-serverless-kit"]
+	path = saas-nextjs-serverless-kit
+	url = git@github.com:muke5hy/saas-nextjs-serverless-kit.git
+[submodule "saas-nextjs-express-kit"]
+	path = saas-nextjs-express-kit
+	url = git@github.com:muke5hy/saas-nextjs-express-kit.git
+[submodule "saas-nextjs-django-kit"]
+	path = saas-nextjs-django-kit
+	url = git@github.com:muke5hy/saas-nextjs-django-kit.git
+[submodule "saas-nextjs-flask-kit"]
+	path = saas-nextjs-flask-kit
+	url = git@github.com:muke5hy/saas-nextjs-flask-kit.git
+[submodule "saas-nextjs-fastapi-kit"]
+	path = saas-nextjs-fastapi-kit
+	url = git@github.com:muke5hy/saas-nextjs-fastapi-kit.git
+[submodule "saas-nextjs-strapi-kit"]
+	path = saas-nextjs-strapi-kit
+	url = git@github.com:muke5hy/saas-nextjs-strapi-kit.git
